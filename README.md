@@ -1,6 +1,4 @@
-# CarCatalog
-
-## Informações 
+ ## Informações 
 
 * Esse é um projeto feito para treinar minhas habilidades de front-end, com foco no CSS;
 * O projeto é uma página web com alguns cards responsivos;
